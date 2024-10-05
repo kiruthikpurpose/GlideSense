@@ -1,0 +1,27 @@
+# Ignore build files
+/build/
+*.o
+*.exe
+
+# Ignore IDE specific files
+/.vscode/
+/.idea/
+/*.sublime-project
+/*.sublime-workspace
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Arduino specific files
+*.elf
+*.hex
+*.bin
+
+# Ignore Raspberry Pi specific files
+*.out
+*.dSYM
