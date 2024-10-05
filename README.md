@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**GlideSense** is an innovative windshield wiper system that aims to revolutionize the way we experience visibility during inclement weather. By intelligently adapting to environmental conditions and detecting performance irregularities, GlideSense ensures that your windshield remains clear and your driving experience is safe. This project is not just about improved wiper functionality; it represents a leap towards smarter automotive systems that respond in real-time to driver needs.
+**GlideSense** is an innovative windshield wiper system (invented by **Kiruthik**) that aims to revolutionize the way we experience visibility during inclement weather. By intelligently adapting to environmental conditions and detecting performance irregularities, GlideSense ensures that your windshield remains clear and your driving experience is safe. This project is not just about improved wiper functionality; it represents a leap towards smarter automotive systems that respond in real-time to driver needs.
 
 ### The Problem
 
